@@ -64,4 +64,4 @@ The project can be used to:
 
 ## 👨‍💻 Author
 
-Your Name
+Deep Kasurde 
